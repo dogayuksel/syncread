@@ -1,0 +1,3 @@
+rootProject.name = 'syncread'
+
+include ':app'
