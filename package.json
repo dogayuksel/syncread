@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.4",
+    "react-native-icloudstore": "^0.9.0",
     "react-native-pdf": "^5.0.9",
     "rn-fetch-blob": "^0.10.13"
   },

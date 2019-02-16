@@ -4242,6 +4242,10 @@ react-is@^16.6.0-alpha.8af6728:
   version "16.6.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.6.0.tgz#456645144581a6e99f6816ae2bd24ee94bdd0c01"
 
+react-native-icloudstore@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/react-native-icloudstore/-/react-native-icloudstore-0.9.0.tgz#415cf2ca79e71eb501024079f3b76f9b82d3d587"
+
 react-native-pdf@^5.0.9:
   version "5.0.9"
   resolved "https://registry.yarnpkg.com/react-native-pdf/-/react-native-pdf-5.0.9.tgz#86113f316f37a661c43404430cf75d35edb5248b"
